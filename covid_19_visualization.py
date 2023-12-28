@@ -70,7 +70,7 @@ plt.legend(loc='upper left')
 
 plt.show()
 
-from datetime import date,timedelta
+from datetime import date, timedelta
 last_recorded_date= "2022-04-16"
 #yesterday = date.today() - timedelta(days=1)
 #yesterday.strftime('%Y-%m-%d')
