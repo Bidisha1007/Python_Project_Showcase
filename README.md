@@ -4,4 +4,3 @@
 2. MATRIX_SCRIPT
 3. CHECKING VALID REGX
 4. Covid-19 Visualization
-5. 
